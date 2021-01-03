@@ -1,0 +1,28 @@
+h1{
+	font-family: helvetica,sans-serif;
+	font-size: 24px;
+	letter-spacing: 3px;
+	text-shadow: 1px 1px 1px grey;
+	text-align: center;
+}
+p{
+	font-family: helvetica,sans-serif;
+	font-size: 18px;
+	color: gray;
+}
+ul{
+	font-family: helvetica,sans-serif;
+	font-size: 14px;
+	color: gray;
+	list-style-type: square;
+}
+table{
+	vertical-align: center;
+
+}
+body{
+	background-image: url(images/background01.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
